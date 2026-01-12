@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @micahtheengineer
-- 👀 I’m interested in Cyber Security
+- 👀 I’m interested in AI and Hardware in general
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Security Projects
+- 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me @micahodell5@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have two cats. 
