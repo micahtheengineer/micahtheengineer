@@ -1,10 +1,15 @@
 - 👋 Hi, I’m @micahtheengineer
-- 👀 I’m interested in AI and Hardware in general
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on AI Projects
 - 📫 How to reach me @micahodell5@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I have two cats. 
+- ⚡ Fun fact: I have two cats.
+
+
+
+🛠️ Tools
+Language: SQL, Python
+Database: PostgreSQL, MySQL
+Visualization: Tableau
 
 <!---
 micahtheengineer/micahtheengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
