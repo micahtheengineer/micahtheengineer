@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @micahtheengineer
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI Projects
+- 💞️ I’m looking to collaborate on automation Projects
 - 📫 How to reach me @micahodell5@gmail.com
 - ⚡ Fun fact: I have two cats.
 
