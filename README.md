@@ -7,9 +7,8 @@
 
 
 🛠️ Tools
-Language: SQL, Python
-Database: PostgreSQL, MySQL
-Visualization: Tableau
+Language:
+
 
 <!---
 micahtheengineer/micahtheengineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
