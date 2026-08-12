@@ -11,7 +11,7 @@
 | Status | Certification |
 | :--- | :--- |
 | ✅ **Obtained** | **Cisco CCNA** |
-| ✅ **Obtained** | **CompTIA Security+** |
+| ✅ **Obtained** | **Terraform Associate** |
 
 ---
 
