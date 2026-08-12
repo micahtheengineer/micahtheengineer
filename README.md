@@ -5,7 +5,6 @@
 - Learning and implementing Python, PowerShell, and Azure CLI scripts to eliminate manual overhead and audit configurations.
 - Pushing and preparing for my first Powerlifting Meet in 2027. Training for a 10k in May 2027
 - Managed by two cats who definitely own my apartment (photo of them below)
-- <a href="https://medium.com/@micah_44192">Sharing network insights on Medium</a>
 
 ## Professional Credentials
 
