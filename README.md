@@ -10,7 +10,7 @@
 
 | Status | Certification |
 | :--- | :--- |
-| ✅ **Obtained** | **Cisco CCNA** |
+| ✅ **Obtained** | **AWS Certified CloudOps Engineer - Associate** |
 | ✅ **Obtained** | **Terraform Associate** |
 
 ---
